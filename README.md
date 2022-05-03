@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arsenaLJkeeee
+- 👋 Hi, I’m Vladimir Borchevskiy
 - 👀 I’m interested in QA
 - 🌱 I’ve just started learning Javascript
 - 📫 How to reach me https://www.linkedin.com/in/vladimir-borchevskiy-a07b07178/
