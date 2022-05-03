@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arsenaLJkeeee
 - 👀 I’m interested in QA
-- 🌱 I’m just started learning Javascript
+- 🌱 I’ve just started learning Javascript
 - 📫 How to reach me https://www.linkedin.com/in/vladimir-borchevskiy-a07b07178/
 
 <!---
