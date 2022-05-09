@@ -11,7 +11,8 @@ You can click the Preview link to take a look at your changes.
 🔭 I’m currently learning at Vadim Ksendzov course.<br/>
 🌱 I’m currently learning English (B2+ -C1 level) 🤦‍♂.<br/>
 ☕️ I’m coffeer. <br/>
-📫 How to reach me https://www.linkedin.com/in/vladimir-borchevskiy-a07b07178/ OR  spb.borchevskiy.v@gmail.com
+📫 How to reach me https://www.linkedin.com/in/vladimir-borchevskiy-a07b07178/ OR
+spb.borchevskiy.v@gmail.com
 ⚡ Bla bla bla...
 
 👉🏻 ![Visitor Count](https://profile-counter.glitch.me/arsenaLJkeeee/count.svg)
