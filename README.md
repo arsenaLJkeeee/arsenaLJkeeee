@@ -3,15 +3,10 @@
 - 🌱 I’ve just started learning Javascript
 - 📫 How to reach me https://www.linkedin.com/in/vladimir-borchevskiy-a07b07178/ OR  spb.borchevskiy.v@gmail.com
 
-
 <!---
 arsenaLJkeeee/arsenaLJkeeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-
-<img width="100%" src="https://drive.google.com/file/d/1HUP2dELI1MXufffN_GMOHfemFbJ3UNNj/view">
 
 ### Hi there, I'm [Vladimir)](https://github.com/arsenaljkeeee) 👋
 
@@ -20,12 +15,12 @@ You can click the Preview link to take a look at your changes.
 🔭 I’m currently learning at Vadim Ksendzov course.<br/>
 🌱 I’m currently learning English (B2+ -C1 level) 🤦‍♂.<br/>
 ☕️ I’m coffeer. <br/>
+📫 How to reach me https://www.linkedin.com/in/vladimir-borchevskiy-a07b07178/ OR  spb.borchevskiy.v@gmail.com
 ⚡ Bla bla bla...
 
 👉🏻 ![Visitor Count](https://profile-counter.glitch.me/arsenaLJkeeee/count.svg)
 
-
-**Front-end** (Basic Knowledge that would be enough for QA at the beginning)
+**Front-end** (Basic knowledge that would be enough for QA at the beginning)
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>
