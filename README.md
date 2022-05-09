@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<img width="100%" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/dereknguyen.png">
+<img width="100%" src="https://drive.google.com/file/d/1HUP2dELI1MXufffN_GMOHfemFbJ3UNNj/view">
 
 ### Hi there, I'm [Vladimir)](https://github.com/arsenaljkeeee) 👋
 
@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 👉🏻 ![Visitor Count](https://profile-counter.glitch.me/arsenaLJkeeee/count.svg)
 
 
-**Front-end**
+**Front-end** (Basic Knowledge that would be enough for QA at the beginning)
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>
