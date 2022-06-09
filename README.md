@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Hi there, I'm [Vladimir)](https://github.com/arsenaljkeeee) 👋
 
-🏠 I’m currently living at Saint-Petersburg. <br/>
+🏠 I’m currently living in Saint-Petersburg. <br/>
 🌱 I’m currently learning English (B2+ -C1 level) 🤦‍♂.<br/>
 📫 How to reach me https://www.linkedin.com/in/vladimir-borchevskiy-a07b07178/ OR
 spb.borchevskiy.v@gmail.com
