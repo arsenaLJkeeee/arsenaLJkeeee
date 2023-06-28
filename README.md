@@ -31,6 +31,6 @@ arsenaljkeeee10@gmail.com
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsenaLJkeeee&layout=compact&theme=merko)](https://github.com/arsenaLJkeeee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsenaLJkeeee&layout=donut&theme=merko)](https://github.com/arsenaLJkeeee/github-readme-stats)
 [![arsenaLJkeeee's github stats](https://github-readme-stats.vercel.app/api?username=arsenaLJkeeee&show_icons=true&theme=merko)](https://github.com/arsenaLJkeeee)
 
