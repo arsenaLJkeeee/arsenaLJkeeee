@@ -13,7 +13,7 @@ arsenaljkeeee10@gmail.com
 
 👉🏻 ![Visitor Count](https://profile-counter.glitch.me/arsenaLJkeeee/count.svg)
 
-**Layout** (Basic knowledge)
+**Layout** **Autotesting (Java, Selenide)**
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>
