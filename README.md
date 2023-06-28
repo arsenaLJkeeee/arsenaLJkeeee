@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-👉🏻 ![Visitor Count](https://profile-counter.glitch.me/arsenaLJkeeee/count.svg)
+Congrat's! You're 👉🏻 ![Visitor Count](https://profile-counter.glitch.me/arsenaLJkeeee/count.svg) visitor of my GitHub
 
 **Autotesting (Java, Selenide)**
 
