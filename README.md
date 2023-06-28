@@ -7,8 +7,12 @@ You can click the Preview link to take a look at your changes.
 ### Hi there, I'm [Vladimir)](https://github.com/arsenaljkeeee) 👋
 
 🌱 I’m currently learning English (B2+ -C1 level) 🤦‍♂.<br/>
-📫 How to reach me https://www.linkedin.com/in/vladimir-borchevskiy-a07b07178/ OR
-arsenaljkeeee10@gmail.com
+📫 How to reach me 
+
+[LinkedIn](https://www.linkedin.com/in/vladimir-borchevskiy-a07b07178/) <br/>
+[arsenaljkeeee10@gmail.com](mailto:arsenaljkeeee10@gmail.com) (click to e-mail)<br/>
+[Telegram](https://t.me/VladimirB14) (click to chat)
+
 
 
 👉🏻 ![Visitor Count](https://profile-counter.glitch.me/arsenaLJkeeee/count.svg)
